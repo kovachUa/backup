@@ -49,10 +49,10 @@ do
             add_user_to_docker_group
             ;;
         3)
-            install_docker_compose
+            ./install_docker_and_compose.sh
             ;;
         4)
-            install_zfs
+            ./install_zfs.sh
             ;;
         5)
             echo "Exiting..."
