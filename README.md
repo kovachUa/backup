@@ -1,7 +1,2 @@
-Hello, I'm Kovach.
-I am not a programmer, but I love servers and unix systems.
-Since I use some free technologies, I need to manage them somehow.
-This is where ai ChatGPT came to the rescue.
-This repository contains simple scripts for one or another program.
-Use it.
-Glory to GNU and open source.
+The development of this repository aims to facilitate the process of restoring program configuration files when installing a new operating system, as well as to store important data on an unreliable remote server. 
+The obtained result is achieved through the use of ChatGPT, which allows automating the process of backing up and encrypting data.
